@@ -1,0 +1,105 @@
+.myContainer{
+    width: 1140px;
+    margin: auto; /*This will centre our container*/
+    overflow: hidden;
+}
+
+.one{
+    width: 65px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.two{
+    width: 160px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.three{
+    width: 255px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.four{
+    width: 350px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.five{
+    width: 445px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.six{
+    width: 540px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.seven{
+    width: 635px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.eight{
+    width: 730px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.nine{
+    width: 825px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.ten{
+    width: 920px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.elevin{
+    width: 1015px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.twelve{
+    width: 1110px;
+    margin: 0px 15px 0px 15px;
+    float: left;
+    display: inline;
+}
+
+.clear{
+    clear: both;
+}
+
+.strip-left{
+    margin-left: 15px;
+}
+
+.strip-right{
+    margin-right: 15px;
+}
+
+p:blank {
+  display: none;
+}
