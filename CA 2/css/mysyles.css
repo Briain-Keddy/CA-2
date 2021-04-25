@@ -1,3 +1,22 @@
 .websiteName{
+    font-family: Oswald;
     font-size: 18px;
+}
+
+.games, .consoles, .accessories, .controllers, .headsets, .digital{
+    font-size: 16px;
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid darkgray;
+    padding: 50px;
+    margin: 20px;
+}
+
+.product{
+    background-color: lightgrey;
+    width: 1070px;
+    height: 1015px;
+    border: 15px solid darkgray;
+    padding: 50px;
+    margin: 20px;
 }
